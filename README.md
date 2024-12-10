@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm `extouchtriangle`. Like the name suggests, I do olympiad math, and I am also a geo main.
 
+I also enjoy AI stuff.
 <!--
 **extouchtriangle/extouchtriangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
