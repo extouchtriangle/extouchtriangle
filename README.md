@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm `extouchtriangle`. Like the name suggests, I do olympiad math, and I am also a geo main.[^1]
+I'm `extouchtriangle`. Like the name suggests, I do olympiad math, and I am also a geo main.[^1][^2]
 
 I also enjoy AI stuff.
 <!--
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [^1]: IMO 2013/3, anyone?
+[^2]: And if you do oly like me but aren't a geo main, take my advice and CHANGE THAT ASAP.
