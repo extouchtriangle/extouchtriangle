@@ -1,9 +1,12 @@
-# Hi!
+# extouchtriangle
 
-I do computer vision and AI related topics.
-I also do olympiad math, which is why
-I decided to make a treesitter parser for tsqx.
+I am a programming neophyte who claims to do math.
 
 ## About
 
-![my terrible stats](https://github-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![my terrible stats](https://github-readme-stats.vercel.app/api?username=&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[^1]
+
+[^1]:
+    I have no idea why I even put these on this
+    page, because they are absolutely abysmal by any metric.
