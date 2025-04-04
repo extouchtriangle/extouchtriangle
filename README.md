@@ -6,6 +6,7 @@ I am a programming neophyte who claims to do math.
 
 ![my terrible stats](https://github-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&count_private=true)
 [^1]
+
 ![my preferred languages](![extouchtriangle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&hide_border=true&layout=compact))
 
 [^1]:
