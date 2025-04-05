@@ -8,3 +8,6 @@ I do math and computer vision.
 ![my preferred languages](https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&hide_border=true)
 
 ![streak](https://streak-stats.demolab.com?user=extouchtriangle&theme=tokyonight&hide_border=true)
+
+## Repos
+[![Readme Card](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=tree-sitter-tsqx)](https://github.com/extouchtriangle/tree-sitter-tsqx)
