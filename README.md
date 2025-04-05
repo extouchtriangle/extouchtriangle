@@ -1,7 +1,7 @@
 # extouchtriangle
 
 I do math and computer vision.
-I also use Arch Linux.
+I also use Arch Linux with i3wm.
 
 ## Stats
 
