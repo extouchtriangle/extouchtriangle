@@ -21,4 +21,3 @@ I do math and computer vision.
 [![MNIST classifier](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=mnist-classifier&theme=tokyonight&border_color=43c2b2)](https://github.com/extouchtriangle/mnist-classifier)
 
 [![Dotfiles](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=dotfiles&theme=tokyonight&border_color=43c2b2)](https://github.com/extouchtriangle/dotfiles)
-[![MNIST classifier](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=mnist-classifier&theme=tokyonight&border_color=43c2b2)](https://github.com/extouchtriangle/mnist-classifier)
