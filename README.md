@@ -1,6 +1,7 @@
 # extouchtriangle
 
 I do math and computer vision.
+I also use Arch Linux.
 
 ## Stats
 
