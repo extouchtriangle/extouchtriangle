@@ -8,7 +8,7 @@ I also use Arch Linux with i3wm.
 <!---![my stats](https://extouchtriangle-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2)
 ![my preferred languages](https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&layout=donut)--->
 <a href="https://github.com/extouchtriangle">
-  <img height=200 align="center" src="https://extouchtriangle-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&rank_icon=percentile" />
+  <img height=200 align="center" src="https://extouchtriangle-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&rank_icon=github" />
 </a>
 <a href="https://github.com/extouchtriangle?tab=repositories">
   <img height=200 align="center" src="https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&layout=donut&exclude_repo=dotfiles" />
