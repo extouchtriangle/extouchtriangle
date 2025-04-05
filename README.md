@@ -10,4 +10,4 @@ I do math and computer vision.
 ![streak](https://streak-stats.demolab.com?user=extouchtriangle&theme=tokyonight&hide_border=true)
 
 ## Repos
-[![Readme Card](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=tree-sitter-tsqx)](https://github.com/extouchtriangle/tree-sitter-tsqx)
+[![Readme Card](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=tree-sitter-tsqx&theme=tokyonight)](https://github.com/extouchtriangle/tree-sitter-tsqx)
