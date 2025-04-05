@@ -26,4 +26,4 @@ I also use Arch Linux with i3wm.
 
 ## Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=496345553a697999d1d08363ccf9326d&theme=tokyonight&border_color=43c2b2)](https://gist.github.com/extouchtriangle/496345553a697999d1d08363ccf9326d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=496345553a697999d1d08363ccf9326d&border_color=43c2b2&theme=tokyonight)](https://gist.github.com/extouchtriangle/496345553a697999d1d08363ccf9326d/)
