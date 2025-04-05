@@ -4,7 +4,7 @@ I do math and computer vision.
 
 ## Stats
 ![my stats](https://extouchtriangle-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2)
-![my preferred languages](https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&layout=compact)
+![my preferred languages](https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&layout=donut)
 
 
 ## Repos
