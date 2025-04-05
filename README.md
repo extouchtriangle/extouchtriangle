@@ -8,10 +8,6 @@ I do math and computer vision.
 <a href="https://github.com/extouchtriangle">
   <img height=200 align="center" src="https://extouchtriangle-readme-stats.vercel.app/api?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&locale=en" />
 </a>
-
-<a href="https://github.com/extouchtriangle?tab=repositories">
-  <img height=200 align="center" src="https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&layout=donut&custom_title=Most%20Used%20Languages%20%28including%20dotfiles%29" />
-</a>
 <a href="https://github.com/extouchtriangle?tab=repositories">
   <img height=200 align="center" src="https://extouchtriangle-readme-stats.vercel.app/api/top-langs/?username=extouchtriangle&theme=tokyonight&show_icons=true&border_color=43c2b2&layout=donut&exclude_repo=dotfiles" />
 </a>
