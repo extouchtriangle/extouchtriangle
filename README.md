@@ -26,4 +26,5 @@ I also use Arch Linux with i3wm.
 
 ## Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=496345553a697999d1d08363ccf9326d&border_color=43c2b2&theme=tokyonight)](https://gist.github.com/extouchtriangle/496345553a697999d1d08363ccf9326d/)
+[![pytorch-tutor](https://github-readme-stats.vercel.app/api/gist?id=59e0317d4a568a5f6a191b49e8d20648&border_color=43c2b2&theme=tokyonight)](https://gist.github.com/extouchtriangle/59e0317d4a568a5f6a191b49e8d20648/)
+[![i3config](https://github-readme-stats.vercel.app/api/gist?id=496345553a697999d1d08363ccf9326d&border_color=43c2b2&theme=tokyonight)](https://gist.github.com/extouchtriangle/496345553a697999d1d08363ccf9326d/)
