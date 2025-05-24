@@ -1,7 +1,7 @@
 # extouchtriangle
 
 I do math and computer vision.
-I also use Arch Linux with i3wm.
+I also use Arch Linux with Hyprland (and end-4 dotfiles).
 
 ## Stats
 
