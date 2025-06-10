@@ -23,8 +23,3 @@ I also use Arch Linux with Hyprland (and end-4 dotfiles).
 [![MNIST classifier](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=mnist-classifier&theme=tokyonight&border_color=43c2b2&show_owner=true)](https://github.com/extouchtriangle/mnist-classifier)
 [![Dotfiles](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=dotfiles&theme=tokyonight&border_color=43c2b2&locale=en&show_owner=true)](https://github.com/extouchtriangle/dotfiles)
 [![Dotfiles](https://extouchtriangle-readme-stats.vercel.app/api/pin/?username=extouchtriangle&repo=tex-fmt&theme=tokyonight&border_color=43c2b2&locale=en&show_owner=true)](https://github.com/extouchtriangle/tex-fmt)
-
-## Gists
-
-[![pytorch-tutor](https://github-readme-stats.vercel.app/api/gist?id=59e0317d4a568a5f6a191b49e8d20648&border_color=43c2b2&theme=tokyonight)](https://gist.github.com/extouchtriangle/59e0317d4a568a5f6a191b49e8d20648/)
-[![i3config](https://github-readme-stats.vercel.app/api/gist?id=496345553a697999d1d08363ccf9326d&border_color=43c2b2&theme=tokyonight)](https://gist.github.com/extouchtriangle/496345553a697999d1d08363ccf9326d/)
