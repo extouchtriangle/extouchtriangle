@@ -1,6 +1,6 @@
 # extouchtriangle
 
-I am a WINLAB intern. Currently I'm working on finding ways to decrease the on-device power usage while capturing visual/inertial sequences, in AR glasses.
+Hello!
 
 ## Stats
 
